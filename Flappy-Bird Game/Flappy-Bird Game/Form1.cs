@@ -84,32 +84,53 @@ namespace Flappy_Bird_Game
             ScoreText.Text = "Score : " + score;
             if(pipeBottom.Left < -150)
             {
-                pipeBottom.Left = 800;
-                pipeBottom.Location = new Point(pipeBottom.Left, rand.Next(370,405));
-                score++;
+                
+                
+                int x = rand.Next(800, 1000);
+                int y = rand.Next(370, 405);
+
+                
+
+                if (x - 250 < pipeBottom2.Left || x + 250 > pipeBottom2.Right )
+                    pipeBottom.Location = new Point(x, y);
+
+                
             }
 
-            if(pipeTop.Left < -180)
+            if (pipeTop.Left < -180)
             {
-                pipeTop.Left = 950;
-                pipeTop.Location = new Point(pipeTop.Left, rand.Next(-150,-100)); //437, -123
-                score++;
+
+                int x = rand.Next(800, 1000);
+                
+                int y = rand.Next(-150, -100);
+
+                if(x - 250 < pipeTop2.Left || x + 250 > pipeTop2.Right  )
+                    pipeTop.Location = new Point(x, y); //437, -123
+                
             }
 
             if (pipeBottom2.Left < -150)
             {
-                pipeBottom2.Left = 800;
-
-                pipeBottom2.Location = new Point(pipeBottom2.Left, rand.Next(400,480));//564, 471 
+                int x = rand.Next(800, 1000); // cat de in dreapta
+                int y = rand.Next(400, 480);//  cat de in sus / jos
+                if(x - 250 < pipeBottom.Left || x + 250 > pipeBottom.Right)
+                    pipeBottom2.Location = new Point(x, y);//564, 471 
                 score++;
             }
 
             if (pipeTop2.Left < -180)
             {
-                pipeTop2.Left = 950;
-                pipeTop2.Location = new Point(pipeTop2.Left, rand.Next(-100,-60)); //640, -59
+
+                int x = rand.Next(800, 1000);
+                int y = rand.Next(-100, -60);
+                if (x - 250 < pipeTop.Left || x + 250 > pipeTop.Right )
+                    
+                    pipeTop2.Location = new Point(x,y); //640, -59
                 score++;
             }
+
+
+
             if (flappyBird.Bounds.IntersectsWith(pipeBottom.Bounds) ||
                 flappyBird.Bounds.IntersectsWith(pipeTop.Bounds) ||
                 flappyBird.Bounds.IntersectsWith(pipeBottom2.Bounds) ||
@@ -120,10 +141,7 @@ namespace Flappy_Bird_Game
                 EndGame();
             }
 
-            
-           
-                //pipeSpeed += 0.03;
-             
+
             
 
         }

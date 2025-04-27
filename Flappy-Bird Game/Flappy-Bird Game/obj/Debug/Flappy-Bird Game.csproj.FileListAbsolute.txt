@@ -10,3 +10,15 @@ C:\Users\Andrea\Desktop\Atestat\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flap
 C:\Users\Andrea\Desktop\Atestat\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.pdb
 C:\Users\Andrea\Desktop\Atestat\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Meniu_Principal.resources
 C:\Users\Andrea\Desktop\Atestat\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Dificulty.resources
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\bin\Debug\Flappy-Bird Game.exe.config
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\bin\Debug\Flappy-Bird Game.exe
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\bin\Debug\Flappy-Bird Game.pdb
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Dificulty.resources
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Meniu_Principal.resources
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.exe
+C:\Users\Andrea\Desktop\Atestat\Flappy-Bird-Game\Flappy-Bird Game\Flappy-Bird Game\obj\Debug\Flappy-Bird Game.pdb

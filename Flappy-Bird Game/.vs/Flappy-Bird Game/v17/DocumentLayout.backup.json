@@ -1,41 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\",
+  "WorkspaceRootPath": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Flappy-Bird Game||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|c:\\users\\andrea\\desktop\\atestat\\flappy-bird game\\flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\dificulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|c:\\users\\andrea\\desktop\\atestat\\flappy-bird-game\\flappy-bird game\\flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|c:\\users\\andrea\\desktop\\atestat\\flappy-bird game\\flappy-bird game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\meniu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\flappy-bird game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6619F4F4-8383-4260-9540-EDEFCBFC063B}|Flappy-Bird Game\\Flappy-Bird Game.csproj|solutionrelative:flappy-bird game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,36 +42,23 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Flappy-Bird Game",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Flappy-Bird Game.csproj",
-              "RelativeDocumentMoniker": "Flappy-Bird Game\\Flappy-Bird Game.csproj",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Flappy-Bird Game.csproj",
-              "RelativeToolTip": "Flappy-Bird Game\\Flappy-Bird Game.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-25T19:14:01.814Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Program.cs",
+              "RelativeDocumentMoniker": "Flappy-Bird Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Program.cs",
+              "RelativeToolTip": "Flappy-Bird Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:57:47.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Meniu Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
-              "RelativeDocumentMoniker": "Flappy-Bird Game\\Meniu Principal.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
-              "RelativeToolTip": "Flappy-Bird Game\\Meniu Principal.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:36:27.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Meniu Principal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
               "RelativeDocumentMoniker": "Flappy-Bird Game\\Meniu Principal.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs [Design]",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs [Design]",
               "RelativeToolTip": "Flappy-Bird Game\\Meniu Principal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:59:14.442Z",
@@ -87,23 +67,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Program.cs",
-              "RelativeDocumentMoniker": "Flappy-Bird Game\\Program.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Program.cs",
-              "RelativeToolTip": "Flappy-Bird Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Title": "Meniu Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
+              "RelativeDocumentMoniker": "Flappy-Bird Game\\Meniu Principal.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Meniu Principal.cs",
+              "RelativeToolTip": "Flappy-Bird Game\\Meniu Principal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:57:47.652Z",
+              "WhenOpened": "2025-04-24T12:36:27.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Dificulty.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
               "RelativeDocumentMoniker": "Flappy-Bird Game\\Dificulty.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs [Design]",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs [Design]",
               "RelativeToolTip": "Flappy-Bird Game\\Dificulty.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T10:45:11.054Z",
@@ -111,24 +91,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Dificulty.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
               "RelativeDocumentMoniker": "Flappy-Bird Game\\Dificulty.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Dificulty.cs",
               "RelativeToolTip": "Flappy-Bird Game\\Dificulty.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwEMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T10:49:06.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
               "RelativeDocumentMoniker": "Flappy-Bird Game\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs [Design]",
               "RelativeToolTip": "Flappy-Bird Game\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:11:00.701Z",
@@ -136,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
               "RelativeDocumentMoniker": "Flappy-Bird Game\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andrea\\Desktop\\Atestat\\Flappy-Bird-Game\\Flappy-Bird Game\\Flappy-Bird Game\\Form1.cs",
               "RelativeToolTip": "Flappy-Bird Game\\Form1.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAAAwPgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwH0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:19:49.661Z",
               "EditorCaption": ""
